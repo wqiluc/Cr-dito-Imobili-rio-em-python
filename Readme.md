@@ -1,0 +1,31 @@
+# 🏦 Sistema de Crédito Imobiliário — Python #
+
+Bem-vindo(a) ao **Sistema de Crédito Imobiliário** !  
+Este projeto foi desenvolvido 100% em Python, utilizando: **estruturas de repetição**, **acumuladores**, **menus visuais interativod**, **cores no terminal** e boas práticas de organização de código.
+
+O objetivo é **simular** um sistema de análise de crédito para financiamento imobiliário, permitindo ao usuário calcular, verificar e ver a elegibilidade de seu empréstimo, além de navegar pelos menus de forma simples e intuitiva.
+
+---
+
+## 💻 Recursos Principais ##
+
+✅ Menu visual colorido (ANSI);  
+✅ Cálculo automático de parcelas e juros;  
+✅ Uso de repetições; (se quiser simular múltiplos empréstimos)
+✅ Sistema modular e fácil de ampliar;  
+✅ Interface totalmente em terminal;
+✅ Simulação detalhada do financiamento.  
+✅ Site das cores: https://raccoon.ninja/pt/post/dev/tabela-de-cores-ansi-python/ 
+
+---
+
+## 🚀 Como Executar
+1. **Clone o repositório**
+```bash
+git clone: https://github.com/seu-usuario/credito-imobiliario.git
+
+👨‍💻 Autor:
+Desenvolvido por: Lucas Paguetti Pereira
+📧 Email: lpp2@cesar.school
+🌐 GitHub: https://github.com/wqiluc
+📸 Instagram: @lucpaguetti
