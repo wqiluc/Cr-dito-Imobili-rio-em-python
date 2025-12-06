@@ -44,8 +44,6 @@ Desenvolvido por: <br>
   <a href="https://www.linkedin.com/in/lucas-paguetti-pereira-70267339b/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45"/>
   </a>
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="45"/>
-  </a>
 </p>
 
 
