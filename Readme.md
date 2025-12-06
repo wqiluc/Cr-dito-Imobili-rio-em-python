@@ -27,11 +27,30 @@ O objetivo é **simular** um sistema de análise de crédito para financiamento 
 
 ---
 
+👨‍💻 Autor:
+Desenvolvido por: **Lucas Paguetti Pereira**
+Cesar School - ADS Regular💻🎓🧡
+<p align="center">
+  <a href="https://www.instagram.com/lucpaguetti/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/wqiluc" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="45"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lucas-paguetti-pereira-70267339b/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45"/>
+  </a>
+</p>
+
+
 ## 🚀 Como Executar
 1. **Clone o repositório**
 ```bash
 git clone: https://github.com/seu-usuario/credito-imobiliario.git
 
-👨‍💻 Autor:
-Desenvolvido por: Lucas Paguetti Pereira
+
+
+
 
