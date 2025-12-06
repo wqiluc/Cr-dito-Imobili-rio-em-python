@@ -19,6 +19,14 @@ O objetivo é **simular** um sistema de análise de crédito para financiamento 
 
 ---
 
+**💻 Tecnologias Utilizadas**:
+
+<div align="center">
+<div style="text-align: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="110" style="margin: 0 30px;">
+
+---
+
 ## 🚀 Como Executar
 1. **Clone o repositório**
 ```bash
