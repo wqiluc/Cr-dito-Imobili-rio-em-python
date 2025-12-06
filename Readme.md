@@ -27,7 +27,7 @@ O objetivo é **simular** um sistema de análise de crédito para financiamento 
 
 ---
 
-👨‍💻 Autor:
+👨‍💻 Autor: <br>
 Desenvolvido por: <br>
 -**Lucas Paguetti Pereira**
 - Cesar School - ADS Regular💻🎓🧡
