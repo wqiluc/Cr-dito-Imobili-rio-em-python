@@ -34,6 +34,9 @@ git clone: https://github.com/seu-usuario/credito-imobiliario.git
 
 👨‍💻 Autor:
 Desenvolvido por: Lucas Paguetti Pereira
-📧 Email: lpp2@cesar.school
-🌐 GitHub: https://github.com/wqiluc
-📸 Instagram: @lucpaguetti
+
+div align="center">
+<br> <a href='https://www.instagram.com/lucpaguetti/' target="_blank"> <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/wqiluc" target="_blank"> <img src="https://cdn.simpleicons.org/github/ffffff" width="45" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/lucas-paguetti-pereira-70267339b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"> <a href="https://www.linkedin.com/in/lucas-paguetti-pereira-70267339b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45">
+</a>
+ </div>
