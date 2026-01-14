@@ -32,7 +32,7 @@ Desenvolvido por: <br>
 -**Lucas Paguetti Pereira**
 - Cesar School - ADS Regular💻🎓🧡
 
-<p align="center">
+p align="center">
   <a href="https://www.instagram.com/lucpaguetti/" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45"/>
   </a>
@@ -42,13 +42,14 @@ Desenvolvido por: <br>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/lucas-paguetti-pereira-70267339b/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="45"/>
   </a>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/lucaspaguettipereira" target="_blank">
     <img src="https://cdn.simpleicons.org/discord/5865F2" width="45"/>
   </a>
 </p>
-
 
 ## 🚀 Como Executar
 1. **Clone o repositório**
