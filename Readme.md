@@ -8,7 +8,7 @@ O objetivo é **simular** um sistema de análise de crédito para financiamento 
 
 ---
 
-<p align="center">⚙️ Recursos Principais 
+<p align="center">⚙️ Recursos Principais:</p> 
 
 ✅ Menu visual colorido (ANSI);  
 ✅ Cálculo automático de parcelas e juros;  
@@ -19,7 +19,7 @@ O objetivo é **simular** um sistema de análise de crédito para financiamento 
 ✅ Site das cores: https://raccoon.ninja/pt/post/dev/tabela-de-cores-ansi-python/ 
 
 
-<p align="center"> 💻 Tecnologias Utilizadas:
+<p align="center"> 💻 Tecnologias Utilizadas: </p>
 <div align="center">
 <div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="28"/>
