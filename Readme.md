@@ -53,7 +53,7 @@ Desenvolvido por: <br>
   </a>
 </p>
 
-## 🚀 Como Executar
+## 🚀 Como Executar: 
 1. **Clone o repositório**
 ```bash
 git clone: https://github.com/wqiluc/credito-imobiliario.git
