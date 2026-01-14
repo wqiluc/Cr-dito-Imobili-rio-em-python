@@ -1,4 +1,5 @@
-# 🏦 Sistema de Crédito Imobiliário — Python #
+# 🏦 Sistema de Crédito Imobiliário <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" style="vertical-align:middle;"/>
+</h1>
 
 Bem-vindo(a) ao **Sistema de Crédito Imobiliário** !  
 Este projeto foi desenvolvido 100% em Python, utilizando: **estruturas de repetição**, **acumuladores**, **menus visuais interativod**, **cores no terminal** e boas práticas de organização de código.
