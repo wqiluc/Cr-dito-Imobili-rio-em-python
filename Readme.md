@@ -2,7 +2,7 @@
 </h1>
 
 Bem-vindo(a) ao **Sistema de Crédito Imobiliário** !  
-Este projeto foi desenvolvido 100% em Python, utilizando: **estruturas de repetição**, **acumuladores**, **menus visuais interativod**, **cores no terminal** e boas práticas de organização de código.
+Este projeto foi desenvolvido 100% em Python, utilizando: **estruturas de repetição**, **acumuladores**, **menus visuais interativos**, **cores no terminal** e boas práticas de organização de código.
 
 O objetivo é **simular** um sistema de análise de crédito para financiamento imobiliário, permitindo ao usuário calcular, verificar e ver a elegibilidade de seu empréstimo, além de navegar pelos menus de forma simples e intuitiva.
 
