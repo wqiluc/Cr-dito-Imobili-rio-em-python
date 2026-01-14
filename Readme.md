@@ -14,7 +14,7 @@ O objetivo é **simular** um sistema de análise de crédito para financiamento 
 ✅ Cálculo automático de parcelas e juros;  
 ✅ Uso de repetições; (se quiser simular múltiplos empréstimos)
 ✅ Sistema modular e fácil de ampliar;  
-✅ Interface totalmente em terminal;
+✅ Interface totalmente em terminal; <br>
 ✅ Simulação detalhada do financiamento.  
 ✅ Site das cores: https://raccoon.ninja/pt/post/dev/tabela-de-cores-ansi-python/ 
 
