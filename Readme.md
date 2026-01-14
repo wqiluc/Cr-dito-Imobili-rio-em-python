@@ -12,7 +12,7 @@ O objetivo é **simular** um sistema de análise de crédito para financiamento 
 
 ✅ Menu visual colorido (ANSI);  
 ✅ Cálculo automático de parcelas e juros;  
-✅ Uso de repetições; (se quiser simular múltiplos empréstimos)
+✅ Uso de repetições; (se quiser simular múltiplos empréstimos) <br>
 ✅ Sistema modular e fácil de ampliar;  
 ✅ Interface totalmente em terminal; <br>
 ✅ Simulação detalhada do financiamento.  
